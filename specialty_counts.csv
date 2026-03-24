@@ -1,12 +1,12 @@
 specialty,count
- Surgery,1067
- Consult - History and Phy.,477
+ Surgery,1066
+ Consult - History and Phy.,475
  Cardiovascular / Pulmonary,368
  Orthopedic,339
  Radiology,272
  General Medicine,232
  Gastroenterology,219
- Neurology,218
+ Neurology,217
  SOAP / Chart / Progress Notes,165
  Obstetrics / Gynecology,154
  Urology,152
@@ -19,8 +19,8 @@ specialty,count
  Emergency Room Reports,75
  Pediatrics - Neonatal,68
  Pain Management,59
- Psychiatry / Psychology,48
  Podiatry,46
+ Psychiatry / Psychology,46
  Dermatology,28
  Cosmetic / Plastic Surgery,27
  Dentistry,27

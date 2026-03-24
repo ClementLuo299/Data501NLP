@@ -1,0 +1,391 @@
+specialty,keyword_list,count
+ Allergy / Immunology,allergy / immunology,3
+ Allergy / Immunology,ad lib,1
+ Allergy / Immunology,allegra,1
+ Allergy / Immunology,allergic,1
+ Allergy / Immunology,allergic rhinitis,1
+ Allergy / Immunology,allergies,1
+ Allergy / Immunology,allergy,1
+ Allergy / Immunology,aspirin,1
+ Allergy / Immunology,asthma,1
+ Allergy / Immunology,chronic glossitis,1
+ Bariatrics,bariatrics,18
+ Bariatrics,gastric bypass,11
+ Bariatrics,weight loss,9
+ Bariatrics,laparoscopic,6
+ Bariatrics,medifast,6
+ Bariatrics,bypass,5
+ Bariatrics,gastric,5
+ Bariatrics,loss,5
+ Bariatrics,weight,5
+ Bariatrics,laparoscopic gastric bypass,4
+ Cardiovascular / Pulmonary,cardiovascular / pulmonary,275
+ Cardiovascular / Pulmonary,artery,47
+ Cardiovascular / Pulmonary,chest,38
+ Cardiovascular / Pulmonary,coronary,37
+ Cardiovascular / Pulmonary,stenosis,31
+ Cardiovascular / Pulmonary,catheterization,30
+ Cardiovascular / Pulmonary,bronchoscopy,29
+ Cardiovascular / Pulmonary,ventricular,28
+ Cardiovascular / Pulmonary,angiography,27
+ Cardiovascular / Pulmonary,coronary artery,27
+ Chiropractic,chiropractic,3
+ Chiropractic,ankle,1
+ Chiropractic,annular bulging,1
+ Chiropractic,apophyseal joint arthrosis,1
+ Chiropractic,arthrosis,1
+ Chiropractic,bulging,1
+ Chiropractic,calcaneocuboid joint,1
+ Chiropractic,canal,1
+ Chiropractic,central canal,1
+ Chiropractic,central disc,1
+ Consult - History and Phy.,consult - history and phy.,198
+ Consult - History and Phy.,hypertension,12
+ Consult - History and Phy.,weight,12
+ Consult - History and Phy.,dietary,11
+ Consult - History and Phy.,weight loss,11
+ Consult - History and Phy.,diabetes,9
+ Consult - History and Phy.,gastric bypass,8
+ Consult - History and Phy.,swelling,8
+ Consult - History and Phy.,dietary consultation,7
+ Consult - History and Phy.,infection,7
+ Cosmetic / Plastic Surgery,cosmetic / plastic surgery,25
+ Cosmetic / Plastic Surgery,breast,8
+ Cosmetic / Plastic Surgery,blepharoplasty,5
+ Cosmetic / Plastic Surgery,prepped and draped,5
+ Cosmetic / Plastic Surgery,mammoplasty,4
+ Cosmetic / Plastic Surgery,nipple,4
+ Cosmetic / Plastic Surgery,areolar,3
+ Cosmetic / Plastic Surgery,hypertrophy,3
+ Cosmetic / Plastic Surgery,lipectomy,3
+ Cosmetic / Plastic Surgery,lipodystrophy,3
+ Dentistry,dentistry,24
+ Dentistry,throat pack,9
+ Dentistry,dental,8
+ Dentistry,mandible,8
+ Dentistry,teeth,8
+ Dentistry,extraction,6
+ Dentistry,tooth,6
+ Dentistry,abscess,5
+ Dentistry,mandibular,5
+ Dentistry,dental caries,4
+ Dermatology,dermatology,24
+ Dermatology,punch biopsy,4
+ Dermatology,: Thesetranscribed medical transcription sample reports and examples are provided by various users andare for reference purpose only. MTHelpLine does not certify accuracy and quality of sample reports.These transcribed medical transcription sample reports may include some uncommon or unusual formats;this would be due to the preference of the dictating physician. All names and dates have beenchanged (or removed) to keep confidentiality. Any resemblance of any type of name or date orplace or anything else to real world is purely incidental.,2
+ Dermatology,actinic keratosis,2
+ Dermatology,basal,2
+ Dermatology,basal cell,2
+ Dermatology,basal cell ca,2
+ Dermatology,biopsy,2
+ Dermatology,ca,2
+ Dermatology,cell,2
+ Diets and Nutritions,diets and nutritions,10
+ Diets and Nutritions,dietary,9
+ Diets and Nutritions,dietary consultation,5
+ Diets and Nutritions,weight,5
+ Diets and Nutritions,blood sugars,3
+ Diets and Nutritions,calories,3
+ Diets and Nutritions,carbohydrate,3
+ Diets and Nutritions,food,3
+ Diets and Nutritions,meal,3
+ Diets and Nutritions,diabetes,2
+ Discharge Summary,discharge summary,73
+ Discharge Summary,discharge,13
+ Discharge Summary,anemia,7
+ Discharge Summary,congestive heart failure,4
+ Discharge Summary,skilled speech therapy,4
+ Discharge Summary,speech therapy,4
+ Discharge Summary,bronchitis,3
+ Discharge Summary,cervical,3
+ Discharge Summary,cholecystitis,3
+ Discharge Summary,chronic obstructive pulmonary disease,3
+ ENT - Otolaryngology,ent - otolaryngology,82
+ ENT - Otolaryngology,nasal,20
+ ENT - Otolaryngology,adenoidectomy,16
+ ENT - Otolaryngology,tonsillectomy,16
+ ENT - Otolaryngology,hypertrophy,13
+ ENT - Otolaryngology,otitis media,12
+ ENT - Otolaryngology,ear,11
+ ENT - Otolaryngology,otitis,11
+ ENT - Otolaryngology,media,10
+ ENT - Otolaryngology,nasopharynx,9
+ Emergency Room Reports,emergency room reports,29
+ Emergency Room Reports,angiogram,3
+ Emergency Room Reports,bleeding,3
+ Emergency Room Reports,headache,3
+ Emergency Room Reports,nausea,3
+ Emergency Room Reports,swelling,3
+ Emergency Room Reports,tube,3
+ Emergency Room Reports,chest,2
+ Emergency Room Reports,ct scan,2
+ Emergency Room Reports,dental,2
+ Endocrinology,endocrinology,15
+ Endocrinology,thyroid,7
+ Endocrinology,thyroidectomy,5
+ Endocrinology,diabetes,4
+ Endocrinology,thyroid gland,4
+ Endocrinology,total thyroidectomy,4
+ Endocrinology,diabetes mellitus,3
+ Endocrinology,dissection,3
+ Endocrinology,thyroid goiter,3
+ Endocrinology,berry's ligament,2
+ Gastroenterology,gastroenterology,188
+ Gastroenterology,colonoscopy,37
+ Gastroenterology,abdomen,36
+ Gastroenterology,laparoscopic,32
+ Gastroenterology,esophagus,27
+ Gastroenterology,gallbladder,26
+ Gastroenterology,cholecystectomy,23
+ Gastroenterology,esophagogastroduodenoscopy,22
+ Gastroenterology,endoscopy,21
+ Gastroenterology,laparoscopic cholecystectomy,21
+ General Medicine,general medicine,117
+ General Medicine,hypertension,13
+ General Medicine,nausea,10
+ General Medicine,diabetes,9
+ General Medicine,infection,8
+ General Medicine,vomiting,8
+ General Medicine,blood pressure,7
+ General Medicine,cough,7
+ General Medicine,soap,7
+ General Medicine,atrial fibrillation,6
+ Hematology - Oncology,hematology - oncology,60
+ Hematology - Oncology,excision,9
+ Hematology - Oncology,: Thesetranscribed medical transcription sample reports and examples are provided by various users andare for reference purpose only. MTHelpLine does not certify accuracy and quality of sample reports.These transcribed medical transcription sample reports may include some uncommon or unusual formats;this would be due to the preference of the dictating physician. All names and dates have beenchanged (or removed) to keep confidentiality. Any resemblance of any type of name or date orplace or anything else to real world is purely incidental.,8
+ Hematology - Oncology,breast,8
+ Hematology - Oncology,carcinoma,7
+ Hematology - Oncology,biopsy,6
+ Hematology - Oncology,chemotherapy,6
+ Hematology - Oncology,cancer,5
+ Hematology - Oncology,mesothelioma,5
+ Hematology - Oncology,squamous cell carcinoma,5
+ Hospice - Palliative Care,hospice - palliative care,5
+ Hospice - Palliative Care,hospice,4
+ Hospice - Palliative Care,code status,2
+ Hospice - Palliative Care,dnr,2
+ Hospice - Palliative Care,exchange of information,2
+ Hospice - Palliative Care,hospice care,2
+ Hospice - Palliative Care,hospitalization,2
+ Hospice - Palliative Care,length of the encounter,2
+ Hospice - Palliative Care,: Thesetranscribed medical transcription sample reports and examples are provided by various users andare for reference purpose only. MTHelpLine does not certify accuracy and quality of sample reports.These transcribed medical transcription sample reports may include some uncommon or unusual formats;this would be due to the preference of the dictating physician. All names and dates have beenchanged (or removed) to keep confidentiality. Any resemblance of any type of name or date orplace or anything else to real world is purely incidental.,1
+ Hospice - Palliative Care,abdominal pain,1
+ IME-QME-Work Comp etc.,ime-qme-work comp etc.,4
+ IME-QME-Work Comp etc.,independent medical evaluation,2
+ IME-QME-Work Comp etc.,ama guide,1
+ IME-QME-Work Comp etc.,burn,1
+ IME-QME-Work Comp etc.,deep tendon reflex,1
+ IME-QME-Work Comp etc.,degree,1
+ IME-QME-Work Comp etc.,depressive,1
+ IME-QME-Work Comp etc.,emg,1
+ IME-QME-Work Comp etc.,evaluation of permanent impairment,1
+ IME-QME-Work Comp etc.,excessive nervousness,1
+ Lab Medicine - Pathology,lab medicine - pathology,8
+ Lab Medicine - Pathology,lung,4
+ Lab Medicine - Pathology,lymph,4
+ Lab Medicine - Pathology,specimen,4
+ Lab Medicine - Pathology,tumor,4
+ Lab Medicine - Pathology,lobe,3
+ Lab Medicine - Pathology,: Thesetranscribed medical transcription sample reports and examples are provided by various users andare for reference purpose only. MTHelpLine does not certify accuracy and quality of sample reports.These transcribed medical transcription sample reports may include some uncommon or unusual formats;this would be due to the preference of the dictating physician. All names and dates have beenchanged (or removed) to keep confidentiality. Any resemblance of any type of name or date orplace or anything else to real world is purely incidental.,2
+ Lab Medicine - Pathology,adenocarcinoma,2
+ Lab Medicine - Pathology,biopsy,2
+ Lab Medicine - Pathology,carcinoma,2
+ Letters,letters,20
+ Letters,letter,7
+ Letters,: Thesetranscribed medical transcription sample reports and examples are provided by various users andare for reference purpose only. MTHelpLine does not certify accuracy and quality of sample reports.These transcribed medical transcription sample reports may include some uncommon or unusual formats;this would be due to the preference of the dictating physician. All names and dates have beenchanged (or removed) to keep confidentiality. Any resemblance of any type of name or date orplace or anything else to real world is purely incidental.,5
+ Letters,visual,4
+ Letters,eye,3
+ Letters,ophthalmology,3
+ Letters,disc,2
+ Letters,examination,2
+ Letters,glaucoma,2
+ Letters,lumbar,2
+ Nephrology,nephrology,63
+ Nephrology,renal,22
+ Nephrology,abdomen,15
+ Nephrology,ct,15
+ Nephrology,kidney,14
+ Nephrology,pelvis,13
+ Nephrology,ct abdomen,9
+ Nephrology,contrast,8
+ Nephrology,end-stage renal disease,8
+ Nephrology,renal mass,8
+ Neurology,neurology,162
+ Neurology,mri,27
+ Neurology,brain,24
+ Neurology,ct,17
+ Neurology,mri brain,17
+ Neurology,spine,16
+ Neurology,cervical,12
+ Neurology,weakness,12
+ Neurology,: Thesetranscribed medical transcription sample reports and examples are provided by various users andare for reference purpose only. MTHelpLine does not certify accuracy and quality of sample reports.These transcribed medical transcription sample reports may include some uncommon or unusual formats;this would be due to the preference of the dictating physician. All names and dates have beenchanged (or removed) to keep confidentiality. Any resemblance of any type of name or date orplace or anything else to real world is purely incidental.,10
+ Neurology,craniotomy,10
+ Neurosurgery,neurosurgery,79
+ Neurosurgery,discectomy,24
+ Neurosurgery,cervical,22
+ Neurosurgery,anterior,21
+ Neurosurgery,anterior cervical discectomy,21
+ Neurosurgery,cervical discectomy,14
+ Neurosurgery,craniotomy,12
+ Neurosurgery,fusion,11
+ Neurosurgery,herniated nucleus pulposus,10
+ Neurosurgery,decompression,9
+ Obstetrics / Gynecology,obstetrics / gynecology,127
+ Obstetrics / Gynecology,uterus,26
+ Obstetrics / Gynecology,uterine,18
+ Obstetrics / Gynecology,intrauterine,17
+ Obstetrics / Gynecology,vaginal,16
+ Obstetrics / Gynecology,pregnancy,15
+ Obstetrics / Gynecology,intrauterine pregnancy,14
+ Obstetrics / Gynecology,hysterectomy,13
+ Obstetrics / Gynecology,: Thesetranscribed medical transcription sample reports and examples are provided by various users andare for reference purpose only. MTHelpLine does not certify accuracy and quality of sample reports.These transcribed medical transcription sample reports may include some uncommon or unusual formats;this would be due to the preference of the dictating physician. All names and dates have beenchanged (or removed) to keep confidentiality. Any resemblance of any type of name or date orplace or anything else to real world is purely incidental.,12
+ Obstetrics / Gynecology,abdominal,12
+ Office Notes,office notes,19
+ Office Notes,: Thesetranscribed medical transcription sample reports and examples are provided by various users andare for reference purpose only. MTHelpLine does not certify accuracy and quality of sample reports.These transcribed medical transcription sample reports may include some uncommon or unusual formats;this would be due to the preference of the dictating physician. All names and dates have beenchanged (or removed) to keep confidentiality. Any resemblance of any type of name or date orplace or anything else to real world is purely incidental.,4
+ Office Notes,membranes,2
+ Office Notes,mouth,2
+ Office Notes,stress test,2
+ Office Notes,throat,2
+ Office Notes,abnormal stress test,1
+ Office Notes,accutane,1
+ Office Notes,acute respiratory,1
+ Office Notes,adenoidectomy,1
+ Ophthalmology,ophthalmology,79
+ Ophthalmology,eye,34
+ Ophthalmology,cataract,23
+ Ophthalmology,intraocular,21
+ Ophthalmology,phacoemulsification,21
+ Ophthalmology,lens,20
+ Ophthalmology,anterior chamber,18
+ Ophthalmology,intraocular lens,16
+ Ophthalmology,: Thesetranscribed medical transcription sample reports and examples are provided by various users andare for reference purpose only. MTHelpLine does not certify accuracy and quality of sample reports.These transcribed medical transcription sample reports may include some uncommon or unusual formats;this would be due to the preference of the dictating physician. All names and dates have beenchanged (or removed) to keep confidentiality. Any resemblance of any type of name or date orplace or anything else to real world is purely incidental.,15
+ Ophthalmology,chamber,15
+ Orthopedic,orthopedic,286
+ Orthopedic,tourniquet,43
+ Orthopedic,cervical,36
+ Orthopedic,anterior,29
+ Orthopedic,fracture,28
+ Orthopedic,discectomy,27
+ Orthopedic,knee,26
+ Orthopedic,anterior cervical discectomy,22
+ Orthopedic,ligament,22
+ Orthopedic,lumbar,22
+ Pain Management,pain management,56
+ Pain Management,injection,24
+ Pain Management,fluoroscopy,18
+ Pain Management,epidural,15
+ Pain Management,needle,15
+ Pain Management,: Thesetranscribed medical transcription sample reports and examples are provided by various users andare for reference purpose only. MTHelpLine does not certify accuracy and quality of sample reports.These transcribed medical transcription sample reports may include some uncommon or unusual formats;this would be due to the preference of the dictating physician. All names and dates have beenchanged (or removed) to keep confidentiality. Any resemblance of any type of name or date orplace or anything else to real world is purely incidental.,10
+ Pain Management,steroid,10
+ Pain Management,steroid injection,7
+ Pain Management,cervical,6
+ Pain Management,epidural space,6
+ Pediatrics - Neonatal,pediatrics - neonatal,37
+ Pediatrics - Neonatal,child,5
+ Pediatrics - Neonatal,pulmonary,5
+ Pediatrics - Neonatal,infant,4
+ Pediatrics - Neonatal,otitis media,4
+ Pediatrics - Neonatal,respiratory,4
+ Pediatrics - Neonatal,check,3
+ Pediatrics - Neonatal,child check,3
+ Pediatrics - Neonatal,circumcision,3
+ Pediatrics - Neonatal,cough,3
+ Physical Medicine - Rehab,physical medicine - rehab,11
+ Physical Medicine - Rehab,conduction,8
+ Physical Medicine - Rehab,needle emg,7
+ Physical Medicine - Rehab,emg,6
+ Physical Medicine - Rehab,emg/nerve,6
+ Physical Medicine - Rehab,nerve conduction study,6
+ Physical Medicine - Rehab,needle,5
+ Physical Medicine - Rehab,nerve conduction studies,4
+ Physical Medicine - Rehab,evoked response,3
+ Physical Medicine - Rehab,gastrocnemius medialis,3
+ Podiatry,podiatry,41
+ Podiatry,foot,20
+ Podiatry,metatarsal,10
+ Podiatry,plantar,8
+ Podiatry,ankle,6
+ Podiatry,bunionectomy,6
+ Podiatry,incision,6
+ Podiatry,metatarsal head,6
+ Podiatry,toe,5
+ Podiatry,bone,4
+ Psychiatry / Psychology,psychiatry / psychology,17
+ Psychiatry / Psychology,axis,4
+ Psychiatry / Psychology,psychiatric,4
+ Psychiatry / Psychology,depression,3
+ Psychiatry / Psychology,disorder,3
+ Psychiatry / Psychology,headaches,3
+ Psychiatry / Psychology,substance abuse,3
+ Psychiatry / Psychology,abuse,2
+ Psychiatry / Psychology,adhd,2
+ Psychiatry / Psychology,attention deficit hyperactivity disorder,2
+ Radiology,radiology,247
+ Radiology,ct,43
+ Radiology,mri,38
+ Radiology,ultrasound,25
+ Radiology,contrast,20
+ Radiology,abdomen,19
+ Radiology,spine,18
+ Radiology,brain,17
+ Radiology,ventricular,16
+ Radiology,ejection fraction,15
+ Rheumatology,rheumatology,7
+ Rheumatology,arthritis,5
+ Rheumatology,joint pains,2
+ Rheumatology,joints,2
+ Rheumatology,lupus,2
+ Rheumatology,oligoarticular,2
+ Rheumatology,oligoarticular arthritis,2
+ Rheumatology,rheumatoid,2
+ Rheumatology,rheumatoid arthritis,2
+ Rheumatology,swelling,2
+ SOAP / Chart / Progress Notes,soap / chart / progress notes,139
+ SOAP / Chart / Progress Notes,hypertension,10
+ SOAP / Chart / Progress Notes,soap,10
+ SOAP / Chart / Progress Notes,dietary,9
+ SOAP / Chart / Progress Notes,progress note,8
+ SOAP / Chart / Progress Notes,weight,8
+ SOAP / Chart / Progress Notes,: Thesetranscribed medical transcription sample reports and examples are provided by various users andare for reference purpose only. MTHelpLine does not certify accuracy and quality of sample reports.These transcribed medical transcription sample reports may include some uncommon or unusual formats;this would be due to the preference of the dictating physician. All names and dates have beenchanged (or removed) to keep confidentiality. Any resemblance of any type of name or date orplace or anything else to real world is purely incidental.,7
+ SOAP / Chart / Progress Notes,atrial fibrillation,7
+ SOAP / Chart / Progress Notes,blood pressure,7
+ SOAP / Chart / Progress Notes,diabetes,7
+ Sleep Medicine,sleep medicine,18
+ Sleep Medicine,sleep,8
+ Sleep Medicine,eeg,7
+ Sleep Medicine,: Thesetranscribed medical transcription sample reports and examples are provided by various users andare for reference purpose only. MTHelpLine does not certify accuracy and quality of sample reports.These transcribed medical transcription sample reports may include some uncommon or unusual formats;this would be due to the preference of the dictating physician. All names and dates have beenchanged (or removed) to keep confidentiality. Any resemblance of any type of name or date orplace or anything else to real world is purely incidental.,6
+ Sleep Medicine,obstructive sleep apnea,5
+ Sleep Medicine,cpap,4
+ Sleep Medicine,polysomnogram,4
+ Sleep Medicine,apnea,3
+ Sleep Medicine,electroencephalogramNOTE,3
+ Sleep Medicine,hyperventilation,3
+ Speech - Language,speech - language,8
+ Speech - Language,skilled speech therapy,6
+ Speech - Language,speech therapy,6
+ Speech - Language,cognitive,3
+ Speech - Language,linguistic,3
+ Speech - Language,speech,3
+ Speech - Language,: Thesetranscribed medical transcription sample reports and examples are provided by various users andare for reference purpose only. MTHelpLine does not certify accuracy and quality of sample reports.These transcribed medical transcription sample reports may include some uncommon or unusual formats;this would be due to the preference of the dictating physician. All names and dates have beenchanged (or removed) to keep confidentiality. Any resemblance of any type of name or date orplace or anything else to real world is purely incidental.,2
+ Speech - Language,aphasia,2
+ Speech - Language,cognitive linguistic,2
+ Speech - Language,memory,2
+ Surgery,surgery,993
+ Surgery,: Thesetranscribed medical transcription sample reports and examples are provided by various users andare for reference purpose only. MTHelpLine does not certify accuracy and quality of sample reports.These transcribed medical transcription sample reports may include some uncommon or unusual formats;this would be due to the preference of the dictating physician. All names and dates have beenchanged (or removed) to keep confidentiality. Any resemblance of any type of name or date orplace or anything else to real world is purely incidental.,53
+ Surgery,laparoscopic,48
+ Surgery,artery,46
+ Surgery,incision,45
+ Surgery,tourniquet,44
+ Surgery,catheter,39
+ Surgery,anesthesia,37
+ Surgery,biopsy,35
+ Surgery,endotracheal,34
+ Urology,urology,137
+ Urology,bladder,32
+ Urology,cystoscopy,23
+ Urology,inguinal,19
+ Urology,prostate,19
+ Urology,circumcision,17
+ Urology,hernia,17
+ Urology,inguinal hernia,15
+ Urology,: Thesetranscribed medical transcription sample reports and examples are provided by various users andare for reference purpose only. MTHelpLine does not certify accuracy and quality of sample reports.These transcribed medical transcription sample reports may include some uncommon or unusual formats;this would be due to the preference of the dictating physician. All names and dates have beenchanged (or removed) to keep confidentiality. Any resemblance of any type of name or date orplace or anything else to real world is purely incidental.,14
+ Urology,foley catheter,14

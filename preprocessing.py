@@ -85,10 +85,6 @@ def fix_hyphens(text):
 def join_sections(transcript_dict):
     return " ".join(f"{k} {v}" for k, v in transcript_dict.items())
 
-# Apply simple tokenization (split)
-def tokenize(text):
-    return text.split()
-
 # Read the dataset contents
 df = pd.read_csv("mtsamples.csv")
 
@@ -114,7 +110,11 @@ df["parsed_transcript"] = df["parsed_transcript"].apply(remove_stopwords)
 df["parsed_transcript"] = df["parsed_transcript"].apply(clean)
 df["parsed_transcript"] = df["parsed_transcript"].apply(lemmatize)
 df["parsed_transcript"] = df["parsed_transcript"].apply(fix_hyphens)
-df["parsed_transcript"] = df["parsed_transcript"].apply(tokenize)
+
+# Remove tokens containing numbers
+df["parsed_transcript"] = df["parsed_transcript"].apply(
+    lambda words: [w for w in words if not any(c.isdigit() for c in w)]
+)
 
 # Add length column
 df["length"] = df["parsed_transcript"].apply(len)
