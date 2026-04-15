@@ -1,50 +1,50 @@
 ClinicalBERT
-Accuracy: 0.3412256267409471
+Accuracy: 0.3732590529247911
                                 precision    recall  f1-score   support
 
           Allergy / Immunology       0.00      0.00      0.00         1
                     Bariatrics       0.00      0.00      0.00         3
-    Cardiovascular / Pulmonary       0.36      0.38      0.37        55
+    Cardiovascular / Pulmonary       0.33      0.36      0.34        55
                   Chiropractic       0.00      0.00      0.00         1
-    Consult - History and Phy.       0.26      0.50      0.34        72
+    Consult - History and Phy.       0.34      0.60      0.43        72
     Cosmetic / Plastic Surgery       0.00      0.00      0.00         4
                      Dentistry       0.00      0.00      0.00         4
                    Dermatology       0.00      0.00      0.00         4
           Diets and Nutritions       0.00      0.00      0.00         2
-             Discharge Summary       0.46      0.38      0.41        16
-          ENT - Otolaryngology       0.12      0.07      0.09        14
-        Emergency Room Reports       0.33      0.18      0.24        11
+             Discharge Summary       0.20      0.19      0.19        16
+          ENT - Otolaryngology       0.33      0.14      0.20        14
+        Emergency Room Reports       0.00      0.00      0.00        11
                  Endocrinology       0.00      0.00      0.00         3
-              Gastroenterology       0.30      0.24      0.27        33
-              General Medicine       0.13      0.09      0.10        35
+              Gastroenterology       0.41      0.33      0.37        33
+              General Medicine       0.20      0.17      0.18        35
          Hematology - Oncology       0.25      0.08      0.12        13
      Hospice - Palliative Care       0.00      0.00      0.00         1
         IME-QME-Work Comp etc.       0.00      0.00      0.00         2
       Lab Medicine - Pathology       0.00      0.00      0.00         1
                        Letters       0.00      0.00      0.00         3
-                    Nephrology       0.20      0.08      0.12        12
-                     Neurology       0.34      0.30      0.32        33
-                  Neurosurgery       0.25      0.07      0.11        14
-       Obstetrics / Gynecology       0.22      0.17      0.20        23
+                    Nephrology       0.33      0.08      0.13        12
+                     Neurology       0.42      0.42      0.42        33
+                  Neurosurgery       0.50      0.21      0.30        14
+       Obstetrics / Gynecology       0.43      0.13      0.20        23
                   Office Notes       0.00      0.00      0.00         3
-                 Ophthalmology       0.25      0.08      0.12        13
-                    Orthopedic       0.40      0.37      0.38        51
-               Pain Management       1.00      0.22      0.36         9
-         Pediatrics - Neonatal       0.20      0.10      0.13        10
+                 Ophthalmology       0.27      0.31      0.29        13
+                    Orthopedic       0.36      0.31      0.34        51
+               Pain Management       0.60      0.33      0.43         9
+         Pediatrics - Neonatal       0.00      0.00      0.00        10
      Physical Medicine - Rehab       0.00      0.00      0.00         3
-                      Podiatry       0.00      0.00      0.00         7
-       Psychiatry / Psychology       0.12      0.14      0.13         7
-                     Radiology       0.26      0.24      0.25        41
+                      Podiatry       0.50      0.14      0.22         7
+       Psychiatry / Psychology       0.43      0.43      0.43         7
+                     Radiology       0.26      0.29      0.28        41
                   Rheumatology       0.00      0.00      0.00         2
- SOAP / Chart / Progress Notes       0.24      0.28      0.26        25
-                Sleep Medicine       0.50      0.33      0.40         3
-             Speech - Language       0.50      1.00      0.67         1
-                       Surgery       0.44      0.65      0.53       160
-                       Urology       0.50      0.17      0.26        23
+ SOAP / Chart / Progress Notes       0.35      0.28      0.31        25
+                Sleep Medicine       1.00      0.33      0.50         3
+             Speech - Language       0.00      0.00      0.00         1
+                       Surgery       0.44      0.69      0.54       160
+                       Urology       0.60      0.13      0.21        23
 
-                      accuracy                           0.34       718
-                     macro avg       0.20      0.16      0.16       718
-                  weighted avg       0.32      0.34      0.31       718
+                      accuracy                           0.37       718
+                     macro avg       0.22      0.15      0.17       718
+                  weighted avg       0.35      0.37      0.34       718
 
 
 TF-IDF

@@ -28,8 +28,8 @@ vectorizer = TfidfVectorizer()
 X_tfidf = vectorizer.fit_transform(docs)
 
 # Save TF-IDF + vectorizer
-sparse.save_npz("tfidf_x.npz", X_tfidf)
-with open("tfidf_vectorizer.pkl", "wb") as f:
+sparse.save_npz("misc/tfidf_x.npz", X_tfidf)
+with open("misc/tfidf_vectorizer.pkl", "wb") as f:
     pickle.dump(vectorizer, f)
 
 
@@ -71,8 +71,8 @@ for i in range(0, len(docs), batch_size):
 X_bert = torch.cat(embeddings)
 
 # Export the result and the labels
-np.save("clinicalbert_x.npy", X_bert.cpu().numpy())
+np.save("misc/clinicalbert_x.npy", X_bert.cpu().numpy())
 y = df["specialty"].to_numpy()
-np.save("y.npy", y)
+np.save("misc/y.npy", y)
 
 

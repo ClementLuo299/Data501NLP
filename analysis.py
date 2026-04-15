@@ -8,8 +8,8 @@ from sklearn.metrics import accuracy_score, classification_report
 import matplotlib.pyplot as plt
 
 # Load data
-X_tfidf = np.load("clinicalbert_x.npy")
-y = np.load("y.npy", allow_pickle=True)
+X_tfidf = np.load("misc/clinicalbert_x.npy")
+y = np.load("misc/y.npy", allow_pickle=True)
 
 # Split into train and test data
 X_train, X_test, y_train, y_test = train_test_split(
@@ -21,7 +21,7 @@ model_bert = LogisticRegression(max_iter=1000)
 model_bert.fit(X_train, y_train)
 y_bert = model_bert.predict(X_test)
 
-# Get results and print it
+# Get metrics and print it
 acc_bert = accuracy_score(y_test, y_bert)
 report_bert = classification_report(y_test, y_bert)
 print("ClinicalBERT:")
@@ -29,8 +29,8 @@ print("Accuracy:", acc_bert)
 print(report_bert)
 
 # Load TF-IDF features + labels
-X_tfidf = sparse.load_npz("tfidf_x.npz")
-y = np.load("y.npy", allow_pickle=True)
+X_tfidf = sparse.load_npz("misc/tfidf_x.npz")
+y = np.load("misc/y.npy", allow_pickle=True)
 
 # Split
 X_train, X_test, y_train, y_test = train_test_split(
@@ -42,7 +42,7 @@ model_tfidf = LogisticRegression(max_iter=1000)
 model_tfidf.fit(X_train, y_train)
 y_tfidf = model_tfidf.predict(X_test)
 
-# Get results and print it
+# Get metrics and print it
 acc_tfidf = accuracy_score(y_test, y_tfidf)
 report_tfidf = classification_report(y_test, y_tfidf)
 print("TF-IDF:")
@@ -51,7 +51,7 @@ print(report_tfidf)
 
 # Get and visualize word weights
 corr = np.abs(model_tfidf.coef_).mean(axis=0)
-with open("tfidf_vectorizer.pkl", "rb") as f:
+with open("misc/tfidf_vectorizer.pkl", "rb") as f:
     vectorizer = pickle.load(f)
 feature_names = vectorizer.get_feature_names_out()
 
@@ -85,7 +85,7 @@ print(df_var.tail(20))
 df_corr.to_csv("word_correlation.csv", index=False)
 df_var.to_csv("word_variation.csv", index=False)
 
-with open("results/metrics.txt", "w") as f:
+with open("misc/metrics.txt", "w") as f:
     f.write("ClinicalBERT\n")
     f.write(f"Accuracy: {acc_bert}\n")
     f.write(report_bert)
