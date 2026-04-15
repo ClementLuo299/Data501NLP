@@ -8,3 +8,5 @@ feature_extraction.py takes the preprocessed dataset and returns x labels for bo
 and ClinicalBERT. It also returns the y labels.
 
 analysis.py does logistic regression on the x,y labels obtained from the feature extraction.
+
+Link to original data: https://www.kaggle.com/datasets/tboyle10/medicaltranscriptions
